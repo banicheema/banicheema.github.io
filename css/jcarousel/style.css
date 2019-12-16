@@ -1,0 +1,21 @@
+.carousel li {
+    background: none;
+    padding: 0;
+}
+
+.carousel img {
+    padding: 0 !important;
+}
+
+.connected-carousels .carousel ul {
+    margin: 0 !important;
+}
+
+.connected-carousels .carousel-navigation li.active img {
+    border-color: #CCCCCC !important;
+}
+.connected-carousels .carousel-navigation li img {
+    border: 5px solid #FFFFFF !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}

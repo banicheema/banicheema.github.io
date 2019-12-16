@@ -1,0 +1,155 @@
+/* --------------------------------------------------------------
+
+   typography.css
+   * Sets up some sensible default typography.
+
+-------------------------------------------------------------- */
+
+/* Default font settings.
+   The font-size percentage is of 16px. (0.75 * 16px = 12px) */
+html { font-size:100.01%; }
+body {
+  font-size: 13px;
+  color: #585858;
+  background: #fff;
+  font-family:  Arial,San-Serif,"Helvetica Neue", Helvetica, sans-serif;
+  line-height :20px;
+}
+
+
+/* Headings
+-------------------------------------------------------------- */
+
+h1,h2,h3,h4,h5,h6 { font-weight: normal; color: #111; }
+
+h1 { font-size: 2.4em; color:#9B6735 ;margin:0px auto 40px ;font-weight:bold}
+.post h1 { font-size: 1.6em; margin:10px auto 20px ;font-weight:bold}
+h2 { font-size: 2em; color:#9B6735 ;margin:10px auto 30px ;font-weight:bold}
+h3 { font-size: 1.5em;   color:#9B6735;  font-weight:bold;margin-bottom:15px}
+h4
+{
+	font-size: 1.25em;
+	color: #585858;
+	font-weight: bold;
+	padding-top:10px;
+	margin: 0 auto 7px;
+}
+h5 { font-size: 1.2em; font-weight: bold;margin:0 auto 0px }
+h6 { font-size: 1em; font-weight: bold; }
+
+h1 img, h2 img, h3 img,
+h4 img, h5 img, h6 img {
+  margin: 0;
+}
+h2 a{ color:#9B6735; }
+h2 a:hover{ color:#9B6735; text-decoration:none}
+h3 a{ color:#9B6735; }
+h3 a:hover{ color:#9B6735; text-decoration:none}
+h4 a{color: #585858;}
+h4 a:hover{color: #BF3000;text-decoration:none}
+/* Text elements
+-------------------------------------------------------------- */
+
+p           { margin: 0 0 1.5em; }
+/* 
+	These can be used to pull an image at the start of a paragraph, so 
+	that the text flows around it (usage: <p><img class="left">Text</p>) 
+ */
+.left  			{ float: left !important; }
+p .left			{ margin: 1.5em 1.5em 1.5em 0; padding: 0; }
+.right 			{ float: right !important; }
+p .right 		{ margin: 1.5em 0 1.5em 1.5em; padding: 0; }
+
+a{	color: #AF6735;	text-decoration: none;}
+a:focus,
+a:hover     { color: #CC3300;text-decoration: underline}
+/*
+a:hover     { color: #257ab0; text-decoration: underline}
+a           { color: #687ab0; text-decoration: none; }
+*/
+blockquote
+{
+	margin: 10px auto;
+	color: #666;
+	font-style: italic;
+	padding: 15px 10px 15px 20px;
+	width: 90%;
+	height: auto;
+	background: #f7f2e7 url(../../../images/blockquote.gif) no-repeat 10px 10px ;
+	border: 1px dashed gray;
+	text-indent: 15px;
+}
+strong,dfn	{ font-weight: bold; }
+em,dfn      { font-style: italic; }
+sup, sub    { line-height: 0; }
+
+abbr,
+acronym     { border-bottom: 1px dotted #666; }
+address     { margin: 0 0 1.5em; font-style: italic; }
+del         { color:#666; }
+
+pre         { margin: 1.5em 0; white-space: pre; }
+pre,code,tt { font: 1em 'andale mono', 'lucida console', monospace; line-height: 1.5; }
+
+
+/* Lists
+-------------------------------------------------------------- */
+
+li ul,
+li ol       { margin: 0; }
+ul, ol      { margin: 0 1.5em 1.5em 0; padding-left: 1.5em; }
+ul li{list-style-image:url('/images/bullet.gif')}
+
+ul          { list-style-type: disc; }
+ol          { list-style-type: decimal; }
+
+dl          { margin: 0 0 1.5em 0; }
+dl dt       { font-weight: bold; }
+dd          { margin-left: 1.5em;}
+
+
+/* Tables
+-------------------------------------------------------------- */
+
+/* 
+	Because of the need for padding on TH and TD, the vertical rhythm 
+	on table cells has to be 27px, instead of the standard 18px or 36px 
+	of other elements. 
+ */ 
+table       {  width:100%; }
+th          { font-weight: bold; }
+thead th    { background: #c3d9ff; }
+th,td,caption {   }
+td{vertical-align:top}
+/*
+	You can zebra-stripe your tables in outdated browsers by adding 
+	the class "even" to every other table row. 
+
+tbody tr:nth-child(even) td, 
+tbody tr.even td  { 
+	background: #f6f2ea; 
+} */
+tfoot       { font-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classes
+-------------------------------------------------------------- */
+
+.small      { font-size: .8em; margin-bottom: 1.875em; line-height: 1.875em; }
+.large      { font-size: 1.2em; line-height: 2.5em; margin-bottom: 1.25em; }
+.hide       { display: none; }
+
+.quiet      { color: #666; }
+.loud       { color: #000; }
+ 
+.added      { background:#060; color: #fff; }
+.removed    { background:#900; color: #fff; }
+
+.first      { margin-left:0; padding-left:0; }
+.last       { margin-right:0; padding-right:0; }
+.top        { margin-top:0; padding-top:0; }
+.bottom     { margin-bottom:0; padding-bottom:0; }
+.font1 {color:#BF3000;font-weight:bold}
+.font2 a{color:#585858;font-weight:bold;font-size:1.1em}
+.font2 a:hover{color:#BF3000;}
