@@ -1,5 +1,5 @@
 ---
 layout: home
-title: What's Cheematrust?
+title: Welcome Cheematrust
 permalink: /
 ---

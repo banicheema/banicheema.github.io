@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual Impairment Programs
-permalink: /visual-programs/
+permalink: /Visual-Programs/
 ---
 
 <div style="float: left; margin: 0 17px 20px;"><img src="/images/BlindInitiativeLogo.gif" alt=""></div>

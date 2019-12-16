@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Health Programs
-permalink: /health-programs/
+permalink: /Health-Programs/
 ---
 ### Vision for the Health Initiative
 
