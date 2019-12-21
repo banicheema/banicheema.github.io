@@ -10,7 +10,7 @@ Early in 2011 the foundation trust established the DASCFT Development Initiative
 
 Learn more about this program <a href="/Visual-Programs/">click here</a>.
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/BlindInitiativeLogo.gif" alt="" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/blindinitiativelogo.gif" alt="" />
 
 <div class="highlight">DASCFT Digital Talking Library is the first of it's kind in Chandigarh, UT</div>
 

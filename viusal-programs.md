@@ -4,7 +4,7 @@ title: Visual Impairment Programs
 permalink: /Visual-Programs/
 ---
 
-<div style="float: left; margin: 0 17px 20px;"><img src="/images/BlindInitiativeLogo.gif" alt=""></div>
+<div style="float: left; margin: 0 17px 20px;"><img src="/images/blindinitiativelogo.gif" alt=""></div>
 
 The Talking Library for the Visually Impaired is set up to address the educational needs of people with visual impairment and print disability. By providing audio books we help students excel in their subject areas, meet their educational requirements, and increases their chances of better job opportunities to lead them to a path of self-sufficiency. The library membership is free of cost for students and allows them to borrow audio materials as per their requirement.
 
