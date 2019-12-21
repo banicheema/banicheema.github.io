@@ -1,0 +1,21 @@
+<h3><a href="/News">Recent Posts</a></h3>
+<div class="tab_content2" style="display: block;">
+    {%- for post in site.posts limit:2 -%}
+    <div class="bg3">
+
+        <div class="marg_right2 left">
+            <a href="{{post.url | relative_url}}"><img id="ctl00_cphBody_ctl00_rpFeatured_ctl00_imFeatured"
+                    src="/images/placeholder.png" style="width:290px;border-width:0px;"></a>
+        </div>
+        <p class="font2">
+            <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </p>
+        {{ post.excerpt | strip_html  | truncate: 356 }}
+        <br><br>
+        <p><a class="more" href="{{ post.url | relative_url }}">Read
+                more</a></p>
+    </div>
+    {%- endfor -%}
+</div>

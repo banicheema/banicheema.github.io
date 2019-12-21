@@ -1,1 +1,9 @@
-<iframe width="480" height="390" src="http://www.youtube.com/embed/{{ include.id }}?rel=0" frameborder="0" allowfullscreen=""></iframe>
+{% assign width = 480 %}
+{% assign height = 390 %}
+{% if include.width %}
+{% assign width = include.width %}
+{% endif %}
+{% if include.height %}
+{% assign height = include.height %}
+{% endif %}
+<iframe width="{{width}}" height="{{height}}" src="http://www.youtube.com/embed/{{ include.id }}?rel=0" frameborder="0" allowfullscreen=""></iframe>

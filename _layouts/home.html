@@ -1,33 +1,142 @@
 ---
 layout: default
 ---
+<style type="text/css">
+    #content {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 1.9em;
+    }
+</style>
 
 <div class="home">
-  {%- if page.title -%}
+    {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+    {%- endif -%}
+    <div class="page">
+        {{ content }}
 
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
-
+        <div class="threecol">
+            <div class="col1">
+                <p style="font-size: 1.2em; font-weight: normal;">To solve global problems in local communities</p>
+                <p>Dr. Amrik Singh Cheema Foundation Trust (DASCFT) is a not for profit NGO dedicated to empowering and
+                    improving the lives of the underserved population of Chandigarh (U.T.), Haryana and Punjab. DASCFT
+                    was
+                    formally launched in 2002 and has a governing council in specialized fields like health care,
+                    education,
+                    agriculture and banking.</p>
+                <a href="/Activities">Learn more </a>about our development programs.
+            </div>
+            <div class="col2">
+                {% include slider.html%}
+            </div>
+            <div class="clear">&nbsp;</div>
+            <div class="env">
+                <div class="env4">
+                    <h3><a title="Projects" href="/Activities">Projects</a></h3>
+                    <p>We work with the community, the government, and the private sector to jointly help those left
+                        behind
+                        in the rapid economic growth.</p>
+                </div>
+                <div class="env1">
+                    <h3><a title="Initiatives" href="Initiatives">Initiatives</a></h3>
+                    <ul>
+                        <li>Digital talking library program</li>
+                        <li>Health Education Program</li>
+                        <li>Dairy Development Program</li>
+                        <li>Seminars and workshops on rural development issues</li>
+                    </ul>
+                </div>
+                <div class="env2">
+                    <h3><a title="Giving" href="/contact">Giving</a></h3>
+                    <p>We offer many ways to support our work and get involved; from donations to partnerships and
+                        funding.
+                        Your generosity will allow our programs to succeed.</p>
+                </div>
+                <div class="env3">
+                    <h3><a title="Volunteer" href="/Volunteer">Volunteer</a></h3>
+                    <p>Each of us can make a difference. Click here to volunteer.</p>
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+            <div>
+                <div class="col2 marg_right1" style="width: 650px;">
+                    {% include featured.html %}
+                </div>
+            </div>
+        </div>
+        <div class="left" style="margin-left: 30px;">
+            <div style="width: 280px;">
+                <h3><a title="Videos" href="/Videos">Videos</a></h3>
+                {% include youtube.html id="NsDujVY0n7I" width="270" height="165" %}
+                 <br /> The Talking Library: Making Education Accessible
+            </div>
+            <br />
+            <div style="border-top: 1px solid #E0D9B8; padding-top: 15px;">
+                <h3>Slideshow</h3>
+                <div id="loopedSlider">
+                    <div class="container">
+                        <div class="slides" style="width: 1204px;">
+                            <div style="display: block; position: absolute; left: 0;"><img
+                                    src="/images/field/khajurao.JPG" alt="" /></div>
+                            <div style="display: block; position: absolute; left: 0;"><img
+                                    src="/images/field/child2.JPG" alt="" /></div>
+                            <div style="display: block; position: absolute; left: -251px;"><img
+                                    src="/images/field/starsforsight.JPG" alt="" /></div>
+                            <div style="position: absolute; left: -502px; display: block;"><img
+                                    src="/images/field/IMG_0503.JPG" alt="" /></div>
+                            <div style="position: absolute; left: -753px; display: block;"><img
+                                    src="/images/field/IMG_0512.JPG" alt="" /></div>
+                            <div style="display: block; position: absolute; left: -1024px;"><img
+                                    src="/images/field/IMG_0514.JPG" alt="" /></div>
+                            <div style="position: absolute; left: -1275px; display: block;"><img
+                                    src="/images/field/IMG_0508.JPG" alt="" /></div>
+                        </div>
+                    </div>
+                </div>
+                <a href="#">More Photos</a>
+            </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        <div class="hr">&nbsp;</div>
+        <div>
+            <h3><a title="Supporters" href="Supporters.aspx"> Supporters</a></h3>
+            <div class="left indsup">
+                <ul>
+                    <li>
+                        <div class="img-gal">
+                            <div class="img-cont"><img title="Samsung India Electronics, Ltd. "
+                                    src="/images/supporters/desat/samsung-logo-pro_00FA000000227301.jpg"
+                                    alt="Samsung India Electronics, Ltd.  logo" /><span>&nbsp;</span></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="img-gal">
+                            <div class="img-cont"><img title="Annapurann World Food"
+                                    src="/images/supporters/desat/annapurna.jpg"
+                                    alt="Annapurann World Food logo" /><span>&nbsp;</span></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="img-gal">
+                            <div class="img-cont"><img title="Ford Foundation"
+                                    src="/images/supporters/desat/Ford_Foundation.jpg"
+                                    alt="Ford Foundation logo" /><span>&nbsp;</span></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="img-gal">
+                            <div class="img-cont"><img title="United Nations Development Fund for Women (UNIFEM) "
+                                    src="/images/supporters/desat/unifem.jpg"
+                                    alt="United Nations Development Fund for Women (UNIFEM)  logo" /><span>&nbsp;</span>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div style="margin: 10px 40px 0 0;"><a href="/Supporters">Complete list..</a></div>
+        </div>
+    </div>
 </div>

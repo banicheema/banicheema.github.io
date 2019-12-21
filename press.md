@@ -4,4 +4,4 @@ title: Press Releases
 permalink: /news
 ---
 
-{% include health.html category="News"%}
+{% include categories.html category="News"%}

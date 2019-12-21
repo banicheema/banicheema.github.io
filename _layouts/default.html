@@ -96,7 +96,7 @@
                 {{ content }}
 
             </div>
-
+            {%- if page.hideSidebar != true -%}
             <div id="sidepanel">
                 <section class="widget">
                     <div class="content">
@@ -113,20 +113,7 @@
                     </div>
                 </section>
 
-                <!-- <section class="joinMission">
 
-                    <h4>Support Our Work</h4>
-                    <div class="inner">
-                        <p>
-                            Each of us can make a great difference, so we invite you to join Dr Amrik Singh
-                            Cheema Foundation Trust to do your share of giving.
-                        </p>
-                        <center>
-                            <a title="Donate" href="/Donate">Donate to DASCFT</a>
-                        </center>
-                    </div>
-
-                </section> -->
                 <section style="text-align: center">
                     <a href="/Volunteer">
                         <img src="/images/volunteerLeft.jpg" alt="Volunteer for us" title="Click to Volunteer" /></a>
@@ -229,6 +216,7 @@
                 </section>
             </div>
 
+            {%- endif -%}
             <div class="push">
             </div>
         </div>
