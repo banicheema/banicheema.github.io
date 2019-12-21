@@ -12,8 +12,8 @@ permalink: /management/
 <td>
 <h5>Jagdeep Singh Cheema</h5>
 <strong>Chairman</strong>
-<p>Determined to continue his legacy, spirit and sentiments, <a id="ctl00_ContentPlaceHolder1_HyperLink1" title="JagdeepCheema" href="Jagdeep-Singh-Cheema"> Jagdeep Singh Cheema</a> S/o Dr. Amrik Singh Cheema founded this Trust. A known philanthropist and a performer throughout, he introduced many innovative schemes that helped in the multiple growth of whichever institution/organisation he has been associated with.</p>
-<p>As Chairman of Dr. Amrik Singh Cheema Foundation, Jagdeep Singh Cheema plans to augment the activities in such a way that the well-defined objectives of the Trust are achieved. <a title="JagdeepCheema" href="Jagdeep-Singh-Cheema">Click here</a> to know more about Jagdeep Singh Cheema.</p>
+<p>Determined to continue his legacy, spirit and sentiments, <a id="ctl00_ContentPlaceHolder1_HyperLink1" title="JagdeepCheema" href="/jscheema"> Jagdeep Singh Cheema</a> S/o Dr. Amrik Singh Cheema founded this Trust. A known philanthropist and a performer throughout, he introduced many innovative schemes that helped in the multiple growth of whichever institution/organisation he has been associated with.</p>
+<p>As Chairman of Dr. Amrik Singh Cheema Foundation, Jagdeep Singh Cheema plans to augment the activities in such a way that the well-defined objectives of the Trust are achieved. <a title="JagdeepCheema" href="/jscheema">Click here</a> to know more about Jagdeep Singh Cheema.</p>
 </td>
 </tr>
 <tr valign="top">
