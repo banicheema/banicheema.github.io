@@ -13,4 +13,6 @@ DASCFT has held numerous seminars, workshops and conferences since 2002, bringin
 
 <div style="float: right;"><a title="AmrikCheema" href="Amrik-Cheema.aspx"><img src="/images/drcheema.gif" alt="Dr Amrik Singh Cheema" width="91" height="109" /></a></div>
 
-DASCFT propagates the principles, philosophy and sacred missions of <a title="AmrikCheema" href="/Dr-Amrik-Singh-Cheema">Dr. Amrik Singh Cheema's</a> life. A pioneer in agricultural extension in India, Dr. Cheema planned and implemented strategies that made the country become self-sufficient in food, an  outstanding achievement by any standard.</p> <p>Meet our <a title="Management" href="/management"> management team</a>.
+DASCFT propagates the principles, philosophy and sacred missions of <a title="AmrikCheema" href="/Dr-Amrik-Singh-Cheema">Dr. Amrik Singh Cheema's</a> life. A pioneer in agricultural extension in India, Dr. Cheema planned and implemented strategies that made the country become self-sufficient in food, an  outstanding achievement by any standard.
+
+Meet our <a title="Management" href="/management"> management team</a>.
