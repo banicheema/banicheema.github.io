@@ -6,7 +6,7 @@ permalink: /Health-Programs/
 ### Vision for the Health Initiative
 
 <div class="thumb tright">
-<div class="thumbinner" style="width: 320px;"><a href="/images/field/health4.JPG"> <img src="/images/field/health4.JPG" alt=""> </a></div>
+<div class="thumbinner" style="width: 320px;"><a href="/images/field/health4.jpg"> <img src="/images/field/health4.jpg" alt=""> </a></div>
 </div>
 
 To have gainful impact and improve our effectiveness, it is essential for us to use a community based approach and build a sustainable model for health education.
