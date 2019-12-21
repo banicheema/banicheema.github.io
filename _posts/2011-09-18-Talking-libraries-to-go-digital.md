@@ -8,7 +8,7 @@ source: http://epaper.hindustantimes.com/PUBLICATIONS/HT/HC/2011/09/18/ArticleHt
 Talking libraries, where visually impaired individuals can listen to books instead of using Braille, will soon go digital, so that students can access recorded material from the internet and mobile phones.
 
 <div class="thumb tright">
-<div class="thumbinner" style="width: 350px;"><a href="/images/gallery/2011 200/press_sept.jpg"> <img src="/images/gallery/2011 200/press_sept.jpg" alt=""> </a>
+<div class="thumbinner" style="width: 350px;"><a href="/images/Gallery/2011 200/press_sept.jpg"> <img src="/images/Gallery/2011 200/press_sept.jpg" alt=""> </a>
 <div class="thumbcaption">Deepika (extreme left) trains others on the digital access information system in Chandigarh. HT-Photo</div>
 </div>
 </div>

@@ -8,7 +8,7 @@ source: http://epaper.hindustantimes.com/PUBLICATIONS/HT/HC/2011/09/07/ArticleHt
 Visually impaired children have to take recourse to braille in order to read. Still 60 such individuals in the city don't have to use the method for studies, as they are making use of a talking library in the city.
 
 <div class="thumb tright">
-<div class="thumbinner" style="width: 350px;"><a href="/images/gallery/2011 200/soundtoblind.jpg"> <img src="/images/gallery/2011 200/soundtoblind.jpg" alt=""> </a>
+<div class="thumbinner" style="width: 350px;"><a href="/images/Gallery/2011 200/soundtoblind.jpg"> <img src="/images/Gallery/2011 200/soundtoblind.jpg" alt=""> </a>
 <div class="thumbcaption">Volunteers at the recording studio of the talking library at Sector 9, Chandigarh. HT-Photo</div>
 </div>
 </div>

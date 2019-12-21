@@ -8,7 +8,7 @@ source: http://epaper.hindustantimes.com/PUBLICATIONS/HT/HC/2011/04/14/ArticleHt
 The National sports Meet for the Blind-2011 will be organized at Guru Nanak Stadium from April 14 to 16. The games are being organized by the Punjab Sports Association for the blind. The events will include track and (100,200,400 and 800 meters) throw events (discus, shot put and javelin), long jump and high jump.
 
 <div class="thumb tright">
-<div class="thumbinner" style="width: 250px;"><a href="/images/gallery/2011 200/banisports.gif"> <img src="/images/gallery/2011 200/banisports.gif" alt=""></a>
+<div class="thumbinner" style="width: 250px;"><a href="/images/Gallery/2011 200/banisports.gif"> <img src="/images/Gallery/2011 200/banisports.gif" alt=""></a>
 <div class="thumbcaption">Bani Cheema, Executive Director, Dr. Amrik Singh Cheema Foundation Trust and staff members handing over track suits to the athletes. HT-Photo</div>
 </div>
 </div>
