@@ -56,4 +56,3 @@ DASCFT has taken many steps to ensure that farmers are educated with proper know
 The Trust has held numerous seminars, workshops and conferences since 2002, bringing farmers together with experts in the fields of the Trusts objectives, policy makers, researchers, private sector and other interested parties.
 The seminars have raised the capacity of farmers at the local level by understanding what resources are available to them through government and the private sector.
 
-<div class="hr">&nbsp;</div>
