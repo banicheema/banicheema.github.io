@@ -5,11 +5,11 @@
  * Copyright 2010, Gilbert Pellegrom
  * Free to use and abuse under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
- * 
+ *
  * March 2010
  */
- 
- 
+
+
 /* The Nivo Slider styles */
 .nivoSlider {
 	position:relative;
@@ -70,7 +70,7 @@
 	width:47px;
 	height:47px;
 	display:block;
-	background:url(../Styles/nivo-slider/but_prev.png) 0 0 no-repeat;
+	background:url(../css/nivo-slider/but_prev.png) 0 0 no-repeat;
 	text-indent:-9999px;
 }
 .nivo-nextNav {
@@ -78,7 +78,7 @@
 	width:47px;
 	height:47px;
 	display:block;
-	background:url(../Styles/nivo-slider/but_next.png) 0 0 no-repeat;
+	background:url(../css/nivo-slider/but_next.png) 0 0 no-repeat;
 	text-indent:-9999px;
 }
 /* Control nav styles (e.g. 1,2,3...) */
@@ -96,20 +96,20 @@
 	cursor:pointer;
 	display:block;
 	float:left;
-	background:url(../Styles/nivo-slider/slider_controlnav.png) -20px 0 no-repeat;
+	background:url(../css/nivo-slider/slider_controlnav.png) -20px 0 no-repeat;
 	text-indent:-9999px;
 	width:20px;
 	height:20px;
-	
+
 }
 .nivo-controlNav a.active {
 	font-weight:bold;
-	background:url(../Styles/nivo-slider/slider_controlnav.png) 0 0 no-repeat;
+	background:url(../css/nivo-slider/slider_controlnav.png) 0 0 no-repeat;
 }
 
 #slider {
 	position:relative;
-	background:url(../Styles/nivo-slider/loading.gif) no-repeat 50% 40%;
+	background:url(../css/nivo-slider/loading.gif) no-repeat 50% 40%;
 }
 #slider img {
 	position:absolute;
@@ -123,7 +123,7 @@
 .theshadow {
     margin: 0;
     height:50px;
-    background: url(../Styles/nivo-slider/bk_shadow_slider.png) top center no-repeat;
+    background: url(../css/nivo-slider/bk_shadow_slider.png) top center no-repeat;
     position:relative; top: -20px;
 }
 
