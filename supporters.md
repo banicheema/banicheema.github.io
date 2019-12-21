@@ -32,7 +32,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Central Bank of India" src="/images/supporters/Central_Bank_of_India-logo-703E32AC90-seeklogo.com.gif" alt="Central Bank of India logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Central Bank of India" src="/images/supporters/central_bank_of_india-logo-703E32ac90-seeklogo.com.gif" alt="Central Bank of India logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -72,7 +72,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Indian Red Cross Society, Punjab" src="/images/supporters/indianredCrosssociety.png" alt="Indian Red Cross Society, Punjab logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Indian Red Cross Society, Punjab" src="/images/supporters/indianredcrosssociety.png" alt="Indian Red Cross Society, Punjab logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -122,7 +122,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Samsung India Electronics, Ltd. " src="/images/supporters/samsung-logo-pro_00FA000000227301.jpg" alt="Samsung India Electronics, Ltd.  logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Samsung India Electronics, Ltd. " src="/images/supporters/samsung-logo-pro_00fa000000227301.jpg" alt="Samsung India Electronics, Ltd.  logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
