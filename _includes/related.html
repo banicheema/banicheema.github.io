@@ -1,0 +1,34 @@
+<div id="relatedPosts">
+
+    <h3>Related pages</h3>
+    <div>
+        {% assign maxRelated = 4 %}
+        {% assign minCommonTags =  1 %}
+        {% assign maxRelatedCounter = 0 %}
+
+        {% for post in site.posts %}
+
+            {% assign sameTagCount = 0 %}
+            {% assign commonTags = '' %}
+            {% for category in post.category %}
+            {% if post.url != page.url %}
+                {% if page.category == category %}
+                    {% assign sameTagCount = sameTagCount | plus: 1 %}
+                    {% capture tagmarkup %} <span class="label label-default">{{ post.title }}</span> {% endcapture %}
+                    {% assign commonTags = commonTags | append: tagmarkup %}
+                {% endif %}
+            {% endif %}
+            {% endfor %}
+            {% if sameTagCount >= minCommonTags %}
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <span>{{post.excerpt | strip_html | truncate: 106 }}</span>
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+                {% break %}
+            {% endif %}
+            {% endif %}
+
+        {% endfor %}
+
+    </div>
+</div>
