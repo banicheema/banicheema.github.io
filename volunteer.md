@@ -13,7 +13,7 @@ permalink: /volunteer/
 <li>Intern with DASCFT (for students)</li>
 </ul>
 <p><a title="Contact Us" href="/Contact">Contact us</a> today and make the change in society you wish see.</p>
-<p><a href="/Contact"><img style="display: block; margin-left: auto; margin-right: auto;" title="Volunteer with Cheematrust" src="/images/volunteerCent.png" alt="Volunteer with Cheematrust" /></a></p>
+<p><a href="/Contact"><img style="display: block; margin-left: auto; margin-right: auto;" title="Volunteer with Cheematrust" src="/images/volunteercent.png" alt="Volunteer with Cheematrust" /></a></p>
 <blockquote>It was great meeting and working with some of the highly motivation and intelligent students who use the DASFCT Development Initiative resources, specifically the Talking Library. I am glad that I could help these young people, who happen to be either visually impaired or print disabled, access the additional tools they need to get ahead in an educational system that is not designed around their specific learning needs. Through volunteering time for things like grant and program proposals, photo/video documentation and promotional materials, and one on one editing help I was able to directly make a difference. It was a chance to help the organization expand their services for students working towards the education they need for success in a rapidly changing society while fostering community development.<img src="/images/invertedquote.gif" alt="" /></blockquote>
 <p align="right"><strong>Theodora Ruhs</strong> - Volunteer</p>
 <div class="clear">&nbsp;</div>

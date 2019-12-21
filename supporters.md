@@ -12,7 +12,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Andhra Bank" src="/images/supporters/Andhra-Bank.gif" alt="Andhra Bank logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Andhra Bank" src="/images/supporters/andhra-bank.gif" alt="Andhra Bank logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -42,12 +42,12 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Food &amp; Agriculture Organization of the United Nations (FAO)" src="/images/supporters/226px-FAO_logo.png" alt="Food &amp; Agriculture Organization of the United Nations (FAO) logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Food &amp; Agriculture Organization of the United Nations (FAO)" src="/images/supporters/226px-fao_logo.png" alt="Food &amp; Agriculture Organization of the United Nations (FAO) logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Ford Foundation" src="/images/supporters/Ford_Foundation.jpg" alt="Ford Foundation logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Ford Foundation" src="/images/supporters/ford_foundation.jpg" alt="Ford Foundation logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -57,7 +57,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="ICICI Bank" src="/images/supporters/ICICI-Bank.jpg" alt="ICICI Bank logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="ICICI Bank" src="/images/supporters/icici-bank.jpg" alt="ICICI Bank logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -67,17 +67,17 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Indian Overseas Bank" src="/images/supporters/IndianOverseasBank.jpg" alt="Indian Overseas Bank logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Indian Overseas Bank" src="/images/supporters/indianoverseasbank.jpg" alt="Indian Overseas Bank logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Indian Red Cross Society, Punjab" src="/images/supporters/IndianRedCrossSociety.png" alt="Indian Red Cross Society, Punjab logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Indian Red Cross Society, Punjab" src="/images/supporters/indianredCrosssociety.png" alt="Indian Red Cross Society, Punjab logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Luxor Writing Instruments, Ltd" src="/images/supporters/Luxor-Pens.thumbnail.gif" alt="Luxor Writing Instruments, Ltd logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Luxor Writing Instruments, Ltd" src="/images/supporters/luxor-pens.thumbnail.gif" alt="Luxor Writing Instruments, Ltd logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -87,7 +87,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Mount Shivalik Breweries Ltd" src="/images/supporters/MountShivalikBreweries.jpg" alt="Mount Shivalik Breweries Ltd logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Mount Shivalik Breweries Ltd" src="/images/supporters/mountshivalikbreweries.jpg" alt="Mount Shivalik Breweries Ltd logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -97,7 +97,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Oriental Bank of Commerce" src="/images/supporters/OrientalBankOfCommerceIndiaLogo.jpg" alt="Oriental Bank of Commerce logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Oriental Bank of Commerce" src="/images/supporters/orientalbankofcommerceindialogo.jpg" alt="Oriental Bank of Commerce logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -107,7 +107,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Punjab &amp; Sind Bank" src="/images/supporters/PunjabSindBanklogo.jpg" alt="Punjab &amp; Sind Bank logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Punjab &amp; Sind Bank" src="/images/supporters/punjabsindbanklogo.jpg" alt="Punjab &amp; Sind Bank logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -117,7 +117,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Punjab State AIDS Control Society" src="/images/supporters/Punjab State AIDS Control Society.jpg" alt="Punjab State AIDS Control Society logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Punjab State AIDS Control Society" src="/images/supporters/punjab state aids control society.jpg" alt="Punjab State AIDS Control Society logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
@@ -137,7 +137,7 @@ permalink: /supporters/
 </li>
 <li>
 <div class="img-gal">
-<div class="img-cont"><img title="Surya Pharmaceutical, Ltd. " src="/images/supporters/Surya_Pharma.jpg" alt="Surya Pharmaceutical, Ltd.  logo" /> <span>&nbsp;</span></div>
+<div class="img-cont"><img title="Surya Pharmaceutical, Ltd. " src="/images/supporters/surya_pharma.jpg" alt="Surya Pharmaceutical, Ltd.  logo" /> <span>&nbsp;</span></div>
 </div>
 </li>
 <li>
