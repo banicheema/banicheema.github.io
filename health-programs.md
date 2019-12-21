@@ -19,4 +19,4 @@ The foundation took the health initiative forward by developing it into a preven
 
 <div class="hr">&nbsp;</div>
 
-{% include health.html %}
+{% include health.html category="Health"%}

@@ -1,5 +1,7 @@
 ---
 layout: page
-title: What's Cheematrust?
-permalink: /
+title: Press Releases
+permalink: /news
 ---
+
+{% include health.html category="News"%}

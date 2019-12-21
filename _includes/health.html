@@ -1,1 +1,24 @@
-<h1>healthe</h1>
+{%- if site.posts.size > 0 -%}
+<div class="posts">
+
+    {%- for post in site.posts -%}
+    {%- if post.category == include.category -%}
+    <div class="post">
+        <h1>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h1>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="pubDate">{{ post.date | date: date_format }}</span>
+        <div class="text">
+            {{ post.excerpt }}
+            <p><a class="more"
+                    href="{{ post.url | relative_url }}">Continue
+                    reading...</a></p>
+        </div>
+    </div>
+    {%- endif -%}
+    {%- endfor -%}
+</div>
+{%- endif -%}
