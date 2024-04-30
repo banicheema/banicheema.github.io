@@ -15,8 +15,7 @@ Chandigarh, India - 160009
 
 ##### Email
 
-[mail@cheematrust.org](mailto:mail@cheematrust.org) and
-[bani.cheema@cheematrust.org](mailto:bani.cheema@cheematrust.org)
+[banicheema@gmail.com](mailto:banicheema@gmail.com)
 
 ##### Telephone
 
